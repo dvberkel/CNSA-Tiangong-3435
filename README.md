@@ -2,7 +2,7 @@
 A GURPS adventure set on the CNSAs Tiangong 3435
 
 ## Story
-![CNSA Tiangong 3435](https://cdn.rawgit.com/dvberkel/CNSA-Tiangong-3435/master/resources/image/miner.png)
+![CNSA Tiangong 3435](https://raw.githubusercontent.com/dvberkel/CNSA-Tiangong-3435/master/resources/image/miner.png?token=AAeHI6iGfmH6k8Jhp6UzyZMmKFfgOU1-ks5Y9Z-PwA%3D%3D)
 
 ### CNSA Tiangong 3435
 The main purpose of the *CNSA Tiangong 3435* is to mine nebula and process the
