@@ -47,6 +47,11 @@ The crew now stands before a dilemma. Sacrifice themselves and the ship in order
 to breath life into their own civilization. Or try to save their own skin and
 steer clear from the immense pull of the wormhole.
 
+## Timeline
+
+1. Retrieving Orb
+2. Week after retrieval: Pandemonium
+
 ## Locations
 
 Below are descriptions of the main locations in the story. The crew can choose
@@ -55,11 +60,31 @@ one location to the other. This will avoid the zombies and an additional fatigue
 cost. 
 
 ### Hibernation Chamber HC-12
+This is the hibernation chamber that the crew wakes up. It has many pods, all of
+them empty. They will need to override the door controls to get access to the
+rest of the ship. They could reverse engineer the coms to gain some knowledge of
+what is going on.
 
 ### The Bridge
+The bridge has the capability to run a full diagnostics scan. Here the crew can
+find out that the ship is not breached, but is in critical condition. Warp core
+is bombarded with some kind of radiation pulses. There is also the possibility
+that find older footage of the attack.
 
 ### The Weaponry
+The weaponry contains an array of weapons. 
+
+1. Lasers
+2. Force Shield
+3. Electric Baton
 
 ### Engineering
+Engineering is where the wizard is bombarding the warp core with magic. It has
+also the highest concentration of zombies.
+
+When the wizard is mortally wounded, which can be achieved by either a lucky
+shot or a overloading the wizard by attacking simultaneously, it will tell his
+tail. 
 
 ### Escape Pods
+There a a number of pods that can be used to evacuate the ship.
