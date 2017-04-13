@@ -46,3 +46,15 @@ wizard determined that it was this ship that brought magic into the world.
 The crew now stands before a dilemma. Sacrifice themselves and the ship in order
 to breath life into their own civilization. Or try to save their own skin and
 steer clear from the immense pull of the wormhole.
+
+## Locations
+
+### Hibernation Chamber HC-12
+
+### The Bridge
+
+### The Weaponry
+
+### Engineering
+
+### Escape Pods
