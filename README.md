@@ -88,3 +88,24 @@ tail.
 
 ### Escape Pods
 There a a number of pods that can be used to evacuate the ship.
+
+## Last tale of Zhang Heng
+Zhang Heng is one of the last great wizards of his age. For generations the
+magics in his world kept dwindling. Zhang Heng used his magic to prolong his
+live and was desperate to sustain his life style as long as was possible. When
+he realized the demise of magic was inevitable he frantically started to study
+the myths surrounding the origin of magic.
+
+He discovered that the ancient tale of how the gods breathed magic life unto his
+world had some merit to it. He learned by studying ancient relics and piecing
+them together Zhang Heng learned of a sky ship Tiangong 3435 that crashed.
+
+By a detailed study he projected the route of the ship. By using what could
+possibly be the last sliver of magic he teleported himself in a protective
+cocoon hoping that be picked up by an other vessel. 
+
+When Zhang Heng awoke he could feel an unprecedented power surge through his
+body. It was this power that he wanted to take back to his world. 
+
+Surely without the magic the world would never have created such a rich culture
+and would the empire soon crumble.
