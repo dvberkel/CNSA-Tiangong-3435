@@ -49,6 +49,11 @@ steer clear from the immense pull of the wormhole.
 
 ## Locations
 
+Below are descriptions of the main locations in the story. The crew can choose
+not to use the corridors and use  the maintenance hatches instead to go from
+one location to the other. This will avoid the zombies and an additional fatigue
+cost. 
+
 ### Hibernation Chamber HC-12
 
 ### The Bridge
